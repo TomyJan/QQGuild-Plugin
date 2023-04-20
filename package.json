@@ -1,0 +1,12 @@
+{
+    "name": "QQGuild-Plugin",
+    "version": "0.2.25",
+    "author": "萌新-🍓🍓",
+    "type": "module",
+    "dependencies": {
+        "formdata-node": "^5.0.0",
+        "node-fetch": "^3.3.1",
+        "ws": "^8.13.0",
+        "yaml": "^2.2.1"
+    }
+}
